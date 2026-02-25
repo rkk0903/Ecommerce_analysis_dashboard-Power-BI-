@@ -94,3 +94,10 @@ Based on the Ecommerce Sales Dashboard analysis, the following KPIs were used to
 -  8️⃣ Monthly Sales Trend
 
 Tracks revenue performance over time to identify growth patterns, seasonality, and fluctuations.
+
+
+👨‍💻 Author
+
+       Rahul kumar 📧 LinkedIn URL- https://www.linkedin.com/in/rahul-kumar-345660303/ 
+       Email = rahulkumar0903005@gmail.com
+ - 📍 Data Analytics | Business Intelligence | Tableau | SQL | Excel | Python | Power bi
